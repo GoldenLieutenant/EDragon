@@ -3,7 +3,7 @@ A game where the main protagonist, Zach, sets out for an adventure to hunt down 
 
 
 # Video
-https://youtu.be/EUkqhmVpq18
+https://youtu.be/r4_eYPCVi-0
 This is the link to the game showcase
 
 # Controls:
