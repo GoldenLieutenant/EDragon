@@ -1,9 +1,12 @@
 # EDragon
+A game where the main protagonist, Zach, sets out for an adventure to hunt down dragons after his village was destroyed by them.
 
+
+# Video
 https://youtu.be/EUkqhmVpq18
 This is the link to the game showcase
 
-Controls:
+# Controls:
 
 A -> Move left
 
